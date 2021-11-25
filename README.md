@@ -14,8 +14,10 @@ recomendaciones la OMS.
 
 Hoy en día diversas empresas han aprovechado esta necesidad para incrementar sus ventas
 con este tipo de artículos a los cuales también se le ha incrementado sus precios de manera
-importante debido a la demanda, por lo que el empleo de las mismas se ven reducido a solo
-aquellas empresas que las puedan pagar.
+importante debido a la demanda, por lo que el empleo de las mismas se ven reducido a solo aquellas empresas que las pueden pagar
+
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/93307107/143366621-4f35925a-6fba-48f7-bdc6-f6d5f7df1485.jpg">
+
 
 El principio de uso de estas cabinas tiene sus orígenes de uso para la descontaminación de
 personas en táreas de control tóxico – biológico en hospitales, granjas de animales y
@@ -37,5 +39,10 @@ desinfectante detectando mediante sensores a la persona que pretende ingresar, a
 detectar mediante sensores especiales la presencia de la palma de la mano para la
 aplicación de gel anti bacterial de forma automatizada liberando así de ese trabajo al guardia
 de seguridad.
-![IMG_20211011_144302300](https://user-images.githubusercontent.com/93307107/143366621-4f35925a-6fba-48f7-bdc6-f6d5f7df1485.jpg)
+
+
+
+
+## Video de presentacion 
+[![Watch the video](https://user-images.githubusercontent.com/93307107/142710681-27c70c0f-ed24-492d-9b00-95e54dad423b.jpg)](https://drive.google.com/file/d/1WxEyeIh8FiGWC89cCVfUq0ZlsN3E9jBh/view?usp=sharing)
 
